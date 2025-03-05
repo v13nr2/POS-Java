@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "authenticationType": "jwt",
+    "baseName": "PosWoWi",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": "react",
+    "clientTestFrameworks": [],
+    "clientTheme": "darkly",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1741159032371,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "enableHibernateCache": true,
+    "enableTranslation": false,
+    "entities": [],
+    "feignClient": false,
+    "jhipsterVersion": "8.9.0",
+    "jwtSecretKey": "YTUyNWNhYzYyMTc0NDJkYzMyM2Y3NWFiY2Q3NmYxM2UzNjJhODFkMDBiY2IwZTRiNDA3MGEyMTc0NGRiMjA3YjQ0MDQyOTg1NTYxYTRiOTU5OTI5YThhODk1MTI3NzAxYTJkOGNmZTg0NDkwZGJlMzJjZWMwOTMyOTlhYjZiN2U=",
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "packageName": "id.web.jogjaide.wowi",
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "serverPort": 8081,
+    "serviceDiscoveryType": "consul",
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": true
+  }
+}
